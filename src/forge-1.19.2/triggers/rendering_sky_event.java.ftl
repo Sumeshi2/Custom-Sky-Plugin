@@ -898,9 +898,9 @@
 	@OnlyIn(Dist.CLIENT)
 	@SubscribeEvent
   public static void onRenderingLevel(RenderLevelStageEvent event) {
+		Minecraft minecraft = Minecraft.getInstance();
     <#-- Render Sky #-->
     if (event.getStage() == RenderLevelStageEvent.Stage.AFTER_SKY) {
-      Minecraft minecraft = Minecraft.getInstance();
       eventType = RENDER_SKY;
       renderingManager.put("Camera", event.getCamera());
       renderingManager.put("PoseStack", event.getPoseStack());
