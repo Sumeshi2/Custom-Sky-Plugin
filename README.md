@@ -14,4 +14,5 @@ etc.
 
 # Information:
 This plugin supports Forge 1.18.2 and 1.19.2  
-MCreator version need to be 2022.3 or above
+MCreator version need to be 2022.3 or above  
+License: __MIT License__
