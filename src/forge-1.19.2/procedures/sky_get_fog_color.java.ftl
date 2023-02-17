@@ -1,0 +1,1 @@
+(getFogColor(${field$component}))

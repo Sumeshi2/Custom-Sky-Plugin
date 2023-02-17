@@ -1,0 +1,1 @@
+(getStarColor(${field$component}))

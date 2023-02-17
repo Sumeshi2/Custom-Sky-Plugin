@@ -1,0 +1,1 @@
+drawStar(${input$amount}, ${input$seed}, ${input$red}, ${input$green}, ${input$blue}, ${input$alpha}, RGBA);

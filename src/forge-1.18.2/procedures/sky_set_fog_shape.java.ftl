@@ -1,0 +1,1 @@
+setFogShape(${field$shape});

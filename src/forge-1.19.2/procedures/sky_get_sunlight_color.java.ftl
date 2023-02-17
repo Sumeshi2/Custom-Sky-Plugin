@@ -1,0 +1,1 @@
+(getSunlightColor(${field$component}))

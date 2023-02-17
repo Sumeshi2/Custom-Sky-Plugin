@@ -1,0 +1,10 @@
+{
+  "id": "custom_sky_plugin",
+  "minversion": "2022341417",
+  "info": {
+    "name": "Custom Sky Plugin",
+    "version": "2.1.0",
+    "authors": "Sumeshi",
+    "description": "This plugin enables creating your custom sky!"
+  }
+}

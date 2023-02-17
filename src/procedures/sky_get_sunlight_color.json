@@ -1,0 +1,40 @@
+{
+  "args0": [
+    {
+      "type": "field_dropdown",
+      "name": "component",
+      "options": [
+        [
+          "RED",
+          "RED"
+        ],
+        [
+          "GREEN",
+          "GREEN"
+        ],
+        [
+          "BLUE",
+          "BLUE"
+        ],
+        [
+          "ALPHA",
+          "ALPHA"
+        ]
+      ]
+    },
+    {
+      "type": "field_image",
+      "src": "./res/client.png",
+      "width": 8,
+      "height": 24
+    }
+  ],
+  "output": "Number",
+  "colour": "%{BKY_MATH_HUE}",
+  "mcreator": {
+    "toolbox_id": "sky",
+    "fields": [
+      "component"
+    ]
+  }
+}
