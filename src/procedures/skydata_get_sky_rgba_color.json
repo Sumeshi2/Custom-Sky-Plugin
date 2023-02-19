@@ -1,0 +1,23 @@
+{
+  "args0": [
+    {
+      "type": "field_data_list_selector",
+      "name": "component",
+      "datalist": "rgbacolorlist"
+    },
+    {
+      "type": "field_image",
+      "src": "./res/client.png",
+      "width": 8,
+      "height": 24
+    }
+  ],
+  "output": "Number",
+  "colour": "%{BKY_MATH_HUE}",
+  "mcreator": {
+    "toolbox_id": "skydata",
+    "fields": [
+      "component"
+    ]
+  }
+}

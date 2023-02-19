@@ -1,0 +1,1 @@
+setFog(${field$shape}, ${input$start}, ${input$end}, ${input$red}, ${input$green}, ${input$blue}, ${input$alpha}, RGBA);
