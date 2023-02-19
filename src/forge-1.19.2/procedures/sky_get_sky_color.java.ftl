@@ -1,1 +1,0 @@
-(getSkyColor(${field$component}))

@@ -1,1 +1,0 @@
-setFogDistance(${input$start}, ${input$end});

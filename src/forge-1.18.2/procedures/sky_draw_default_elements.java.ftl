@@ -1,1 +1,0 @@
-drawDefaultElements(${input$topsky}, ${input$bottomsky}, ${input$star}, ${input$sunlight}, ${input$sun}, ${input$moon}, ${input$clouds}, ${input$endsky});

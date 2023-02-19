@@ -1,1 +1,0 @@
-drawTextureSky(${input$id}, ${input$path});
