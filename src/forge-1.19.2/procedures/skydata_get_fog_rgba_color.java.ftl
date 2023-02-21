@@ -1,0 +1,1 @@
+(getFogColor(${generator.map(field$component, "rgbacolorlist", 0)}, RGBA))
