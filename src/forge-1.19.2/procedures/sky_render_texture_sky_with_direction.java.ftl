@@ -1,0 +1,1 @@
+renderTextureSky(${input$direction}, ${input$id}, ${input$path});

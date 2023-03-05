@@ -1,0 +1,1 @@
+renderClouds(${input$height}, ${input$vx}, ${input$vz}, ${input$id}, ${input$path});

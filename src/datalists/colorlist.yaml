@@ -1,0 +1,14 @@
+- RED:
+  readablename: "RED"
+- GREEN:
+  readablename: "GREEN"
+- BLUE:
+  readablename: "BLUE"
+- HUE:
+  readablename: "HUE"
+- SATURATION:
+  readablename: "SATURATION"
+- BRIGHTNESS:
+  readablename: "BRIGHTNESS"
+- ALPHA:
+  readablename: "ALPHA"

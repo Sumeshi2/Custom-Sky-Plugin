@@ -1,0 +1,1 @@
+renderFog(${field$shape}, ${input$start}, ${input$end}, ${input$hue}, ${input$saturation}, ${input$brightness}, ${input$alpha}, HSBA);
