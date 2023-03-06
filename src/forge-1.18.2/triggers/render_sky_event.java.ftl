@@ -1,6 +1,5 @@
 <#include "procedures.java.ftl">
-@OnlyIn(Dist.CLIENT)
-@Mod.EventBusSubscriber
+@Mod.EventBusSubscriber(value = {Dist.CLIENT})
 public class ${name}Procedure {
   <#-- EventType #-->
   private static final String NONE = "NONE";
