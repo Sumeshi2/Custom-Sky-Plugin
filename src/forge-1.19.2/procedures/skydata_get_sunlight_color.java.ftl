@@ -1,1 +1,0 @@
-(getSunlightColor(${generator.map(field$component, "colorlist", 0)}))

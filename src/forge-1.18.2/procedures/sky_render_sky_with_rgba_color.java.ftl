@@ -1,1 +1,0 @@
-renderSky(${input$direction}, ${input$red}, ${input$green}, ${input$blue}, ${input$alpha}, RGBA);

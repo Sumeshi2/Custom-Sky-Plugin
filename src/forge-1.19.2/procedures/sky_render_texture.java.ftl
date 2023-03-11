@@ -1,1 +1,0 @@
-renderTexture(${input$id}, ${input$path}, ${input$yaw}, ${input$pitch}, ${input$roll}, ${input$size}, ${input$weathereffect});

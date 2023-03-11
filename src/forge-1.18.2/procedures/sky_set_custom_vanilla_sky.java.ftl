@@ -1,1 +1,0 @@
-customVanillaSky = ${input$boolean};

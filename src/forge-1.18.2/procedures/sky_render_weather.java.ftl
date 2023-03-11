@@ -1,1 +1,0 @@
-renderWeather(${field$type}, ${input$id}, ${input$path}, ${input$biomeeffect}, ${input$immutability});

@@ -1,1 +1,0 @@
-(getSkyColor(${generator.map(field$component, "colorlist", 0)}))
