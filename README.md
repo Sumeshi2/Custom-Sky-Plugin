@@ -2,7 +2,6 @@
 This plugin adds triggers and procedures enable creating your custom sky
 
 # Features:
-![gif](https://i.imgur.com/9ll9wLy.png)
 ### Available procedures in "On rendering sky":  
 Render sunlights  
 Render stars  
